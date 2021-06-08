@@ -1,0 +1,4 @@
+desenvolvimento_basico_java/paradigma_oo/final_paradigma/Carro.java
+ desenvolvimento_basico_java.paradigma_oo.final_paradigma.Carro
+desenvolvimento_basico_java/paradigma_oo/final_paradigma/PessoasCarro.java
+ desenvolvimento_basico_java.paradigma_oo.final_paradigma.PessoasCarro
